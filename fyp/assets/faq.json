@@ -1,0 +1,48 @@
+[
+    {
+      "id": "1",
+      "qns": "Why is there a timer?",
+      "ans": "A timer is implemented because of pomodoro technique. It is a time management method. Time spend on task is break down in to intervals and each intervals is 25 mins, followed by a short break."
+    },
+    {
+      "id": "2",
+      "qns": "Why 25 min?",
+      "ans": "As the average person attention span is 25min- 30mins."
+    },
+    {
+      "id": "3",
+      "qns": "How to earn the points?",
+      "ans": "For every task is marked complete, the points will be added to the account. It is 15 points per completed task "
+    },
+    {
+      "id": "4",
+      "qns": "How to mark task as complete?",
+      "ans": "Go to task page and click on the task you want to mark as complete. "
+    },
+    {
+      "id": "5",
+      "qns": "How to delete task?",
+      "ans": "Go to task page and click on the rubbish bin icon that is at the end of the task you want to delete. "
+    },
+    {
+      "id": "6",
+      "qns": "How to add task?",
+      "ans": "Go to task page and click on the add task button. "
+    },
+    {
+      "id": "7",
+      "qns": "How to add Note?",
+      "ans": "Go to Home page and click on the add note button. "
+    },
+    {
+      "id": "8",
+      "qns": "How to delete Note?",
+      "ans": "Go to Profile page and click on the All notes then click on the rubbish bin is at the end of the note you want to delete. "
+    },
+    {
+      "id": "9",
+      "qns": "How to edit Note?",
+      "ans": "Go to Profile page and click on the All notes then click on the note you want to edit. It will then pop out a page, which u click on the edit button to edit and to save the changes, click on the save button. "
+    }
+  ]
+  

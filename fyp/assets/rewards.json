@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "15 min break", "points": 300 },
+    { "id": 2, "name": "$3 off a drink", "points": 700 },
+    { "id": 3, "name": "30 min break", "points": 600 }, 
+    { "id": 4, "name": "5 min break", "points": 30 } 
+
+    
+]
