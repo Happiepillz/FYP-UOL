@@ -41,19 +41,6 @@ const Task = () => {
     }
   };
 
-//   const handleToggleComplete = async (taskId) => {
-//     const updatedTasks = tasks.map((item) =>
-//       item.id === taskId ? { ...item, completed: !item.completed } : item
-//     );
-
-//     try {
-//       await AsyncStorage.setItem('tasks', JSON.stringify(updatedTasks));
-//       setTasks(updatedTasks);
-//     } catch (error) {
-//       console.error('Error saving updated tasks:', error);
-//     }
-//   };
-
 const handleToggleComplete = async (taskId) => {
     const updatedTasks = tasks.map((item) =>
       item.id === taskId ? { ...item, completed: !item.completed } : item
@@ -76,7 +63,6 @@ const handleToggleComplete = async (taskId) => {
       const updatedCompletedTasks = updatedTasks.filter((item) => item.completed);
 
       // Pass the completed tasks directly to the Profile screen
-      //navigation.navigate('Profile', { completedTasks: updatedCompletedTasks });
 
       console.log('updatedPoints', updatedPoints);
     } catch (error) {
@@ -159,12 +145,6 @@ const handleToggleComplete = async (taskId) => {
       <TouchableOpacity style={styles.addButton} onPress={handleAddTask}>
         <Text style={styles.buttonText}>Add Task</Text>
       </TouchableOpacity>
-      {/* <TouchableOpacity
-        style={styles.viewTasksButton}
-        onPress={handleViewStoredTasks}
-      >
-        <Text style={styles.buttonText}>View All Tasks</Text>
-      </TouchableOpacity> */}
       <FlatList
         style={styles.listView}
         data={tasks.filter((item) => !item.completed)}
