@@ -7,8 +7,6 @@ StarStud is my project name for my final year project.
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [ScreenShots](#screenshots)
 
 ## Project Overview 
 StarStud is an all-in-one task management application designed to help users stay organized, focused and motivated. StarStud simplifies daily productivity and enhances the overall user experience with a range of features. It is a one-stop solution for efficient task management and productivity enhancement. Whether you're a student, professional, or anyone looking to organize their daily life, StarStud offers a seamless experience to help you achieve your goals. 
@@ -88,6 +86,5 @@ expo start
 6. Enjoy StarStud
 The application should now be up and running on your device or emulator. Get ready to boost your productivity and stay motivated!
 
-## Usage
-nqlicfnq;n3
+
 
