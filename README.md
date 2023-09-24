@@ -5,6 +5,7 @@ StarStud is my project name for my final year project.
 
 - [Project Overview](#project-overview)
 - [Features](#features)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [ScreenShots](#screenshots)
@@ -39,10 +40,53 @@ StarStud is an all-in-one task management application designed to help users sta
 
 - Capture important thoughts, ideas and notes.
 - Edit, update and reference your notes whenever.
-  
 
+### Calendar 
+
+- Marked dates that have tasks
+- Show tasks list on selected dates
+  
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- **Node.js**: StarStud is built with JavaScript and requires Node.js. If you haven't already, download and install Node.js from [nodejs.org](https://nodejs.org/).
+
+- **Expo CLI**: StarStud is developed using Expo, a framework for building React Native applications. You can install Expo CLI globally using npm:
+
+  ```bash
+  npm install -g expo-cli
+  ```
+  
 ## Installation
-cnqwenc;3qn
+Follow these steps to set up and run the StarStud application 
+
+1. Clone the Repository
+``` bash
+git clone git clone https://github.com/Happiepillz/FYP-UOL.git
+```
+
+2. Navigate to the Project Directory:
+``` bash
+cd FYP-UOL/fyp
+```
+
+3. Install Dependencies
+``` bash
+npm install <package name>
+```
+
+4. Start the Development Server
+``` bash
+expo start
+```
+
+5. Launch the Application
+  - Use the Expo Go app on your mobile device and scan the QR code displayed in the terminal.
+  - Alternatively, run the application on an iOS/Android emulator by following the Expo CLI instructions.
+
+6. Enjoy StarStud
+The application should now be up and running on your device or emulator. Get ready to boost your productivity and stay motivated!
 
 ## Usage
 nqlicfnq;n3
