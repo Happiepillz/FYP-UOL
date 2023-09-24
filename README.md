@@ -1,5 +1,5 @@
 # StarStud
-StarStud is my project name for my final year project. 
+Welcome to StarStud! This mobile application is designed to help students manage their tasks, stay motivated, and boost productivity.
 
 ## Table of contents 
 
