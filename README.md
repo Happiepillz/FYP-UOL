@@ -57,7 +57,7 @@ Before you begin, ensure you have met the following requirements:
   ```bash
   npm install -g expo-cli
   ```
-  - Git: You'll need Git to clone this repository and manage your codebase. Download and install Git from git-scm.com.
+- Git: You'll need Git to clone this repository and manage your codebase. Download and install Git from git-scm.com.
 ## Installation
 Follow these steps to set up and run the StarStud application 
 
